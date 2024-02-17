@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
 
-- 💬 Ask me about **DSA,Python,React,Node.js,Express.js,MongoDB,MySQl**
+- 💬 Ask me about **DSA,Python,MERN STACK**
 
 - 📫 How to reach me **adityashukla262002@gmail.com**
 
