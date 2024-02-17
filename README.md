@@ -35,7 +35,5 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityas266&show_icons=true&locale=en" alt="adityas266" width="450"/></p>
 <br>
-<p><h3 align="left">Support:</h3>
-</p>
-
-<p><a href="https://www.buymeacoffee.com/Aditya Shukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aditya Shukla" /></a></p><br><br> -->
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Aditya Shukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aditya Shukla" /></a></p><br><br>
