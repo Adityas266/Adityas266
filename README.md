@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Shukla!;I'm+a+Web Devloper;I'm+a+MERN Devloper;I'm+a+Data Analyst;I'm+a+Python Devloper" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Shukla!;I'm+a+Web+Developer;I'm+a+MERN+Developer;I'm+a+Data+Analyst+|+Python+Developer" alt="Dynamic Typing Effect: Hi There! I'm Aditya Shukla! I'm a Web Developer. I'm a MERN Developer. I'm a Data Analyst and Python Developer." />
 </h1>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityas266" alt="adityas266" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
