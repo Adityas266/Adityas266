@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
+- 👨‍💻 My portfolio [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
 
 - 💬 Ask me about **DSA,Python,MERN STACK**
 
