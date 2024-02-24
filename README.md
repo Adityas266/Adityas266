@@ -1,9 +1,10 @@
 <img align="center" alt="Coding" width="1200" height="450" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-<h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aditya Shukla<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif"width="30px"> 
+<h3 align="center">A passionate Full Stack developer from India<img
+    src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px"></h1></h3>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Shukla!;I'm+a+Web+Developer;I'm+a+MERN+Developer;I'm+a+Data+Analyst+|+Python+Developer" alt="Dynamic Typing Effect: Hi There! I'm Aditya Shukla! I'm a Web Developer. I'm a MERN Developer. I'm a Data Analyst and Python Developer." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Shukla!;I'm+a+Web+Developer;I'm+a+MERN+Developer;I'm+a+Data+Analyst+;I'm+a+Python+Developer" alt="Dynamic Typing Effect: Hi There! I'm Aditya Shukla! I'm a Web Developer. I'm a MERN Developer. I'm a Data Analyst and Python Developer." />
 </h1>
 
 
