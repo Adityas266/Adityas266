@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" height="450" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img align="center" alt="Coding" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <h1 align="center">Hi 👋, I'm Aditya Shukla<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif"width="30px"> 
 <h3 align="center">A passionate Full Stack developer from India<img
