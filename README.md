@@ -41,8 +41,8 @@
 
 <div align="center">
     <a>
-<img src="https://github-readme-stats.vercel.app/api?username=Adityas266&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityas266&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"width="50%"><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adityas266&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" width="40%" height="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityas266&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"width="40%"><br/>
         </a>
 <details>
   <summary>More stats</summary>
