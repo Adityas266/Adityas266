@@ -19,7 +19,7 @@
 
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/lightning.gif" width="15px"> Ask me about **DSA,Python,MERN STACK**
 
-- 📫 How to reach me **adityashukla262002@gmail.com**
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px"> How to reach me **adityashukla262002@gmail.com**
 
 <h3 align="left" fontsize="">Connect with me:</h3>
 <p align="left">
