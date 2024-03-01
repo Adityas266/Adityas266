@@ -17,7 +17,7 @@
 
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/hyperkitty.gif" width="24px"> My portfolio [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
 
-- 💬 Ask me about **DSA,Python,MERN STACK**
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/lightning.gif" width="15px"> Ask me about **DSA,Python,MERN STACK**
 
 - 📫 How to reach me **adityashukla262002@gmail.com**
 
