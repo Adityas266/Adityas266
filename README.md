@@ -13,9 +13,9 @@
 
 - <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> I’m currently learning **React**
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I’m looking to collaborate on **Full Stack Projects**
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px"> I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 My portfolio [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/hyperkitty.gif" width="24px"> My portfolio [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
 
 - 💬 Ask me about **DSA,Python,MERN STACK**
 
