@@ -42,9 +42,11 @@
 <div align="center">
     <a href="">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" width="200%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="40">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityas266&theme=midnight_purple&exclude={exclude}"  width="45%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityas266&theme=midnight_purple"  width="45%" hspace="40">
+        <div align="center">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="25">
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityas266&theme=midnight_purple&exclude={exclude}"  width="45%">
+        </div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityas266&theme=midnight_purple"  width="45%" hspace="25">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityas266&theme=midnight_purple&utcOffset=utc+5:30"  width="45%"></a><div>
 
 
