@@ -47,8 +47,9 @@
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="25">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityas266&theme=midnight_purple&exclude={exclude}"  width="45%">
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityas266&theme=midnight_purple"  width="45%" hspace="25">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adityas266&theme=midnight_purple&utcOffset=utc+5:30"  width="45%">
+            <img src="https://raw.githubusercontent.com/Adityas266/readme/master/profile-summary-card-output/midnight_purple/4-productive-time.svg" width="45%")
         </div>
 
+[![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
