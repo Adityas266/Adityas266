@@ -20,7 +20,7 @@
 
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px"> How to reach me **adityashukla262002@gmail.com**
 
-<h3 align="left" fontsize=""><img src="https://github.com/Adityas266/Adityas266/blob/main/images/letterbox.gif" width="25px">Connect with me:</h3>
+<h3 align="left" fontsize=""><img src="https://github.com/Adityas266/Adityas266/blob/main/images/letterbox.gif" width="25px" hspace="10px">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-shukla-developer" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-shukla-developer" height="30" width="40" /></a>
