@@ -27,7 +27,8 @@
 <a href="https://twitter.com/adityashuk85449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityashuk85449" height="30" width="40" /></a>
 <a href="https://instagram.com/adityashukla1185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityashukla1185" height="30" width="40" /></a>
 </p>
-<h3 align="left" fontsize="">Coding Profiles:</h3>
+<h3 align="left" fontsize=""><img
+    src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px" hspace="10">Coding Profiles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/adityashukla26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityashukla26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityashukla2621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityashukla2621" height="30" width="40" /></a>
