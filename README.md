@@ -31,7 +31,6 @@
 <h3 align="left" fontsize=""><img
     src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px" hspace="10">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/adityashukla26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityashukla26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityashukla2621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityashukla2621" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditya262002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya262002" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adityashukla262002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adityashukla262002" height="30" width="40" /></a>
