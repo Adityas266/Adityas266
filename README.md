@@ -43,7 +43,7 @@
 <h3>Statistic:</h3>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" width="200%">
 <details>
-  <summary>More stats</summary>
+  <summary align="center" >More stats</summary>
     <div align="center">
     <a href="https://github.com/Adityas266">
         <div align="left">
