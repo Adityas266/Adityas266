@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1200" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Aditya Shukla 
+<h1 align="center">Hello <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Aditya Shukla 
 </h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+a+Web+Developer;I'm+a+MERN+Developer;I'm+a+Data+Analyst+;I'm+a+Python+Developer" alt="Dynamic Typing Effect: Hi There! I'm Aditya Shukla! I'm a Web Developer. I'm a MERN Developer. I'm a Data Analyst and Python Developer." />
@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/aditya262002" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="aditya262002" height="30"/></a>
 <a href="https://auth.geeksforgeeks.org/user/adityashukla262002" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="adityashukla262002" height="30"/></a>
-<a href="https://www.hackerrank.com/adityashukla2621" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" alt="adityashukla2621" /></a></p>
+<a href="https://www.hackerrank.com/adityashukla2621" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank logo" alt="adityashukla2621" /></a></p>
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" hspace="10">Programming Languages:</h3>
 <p align="left">
