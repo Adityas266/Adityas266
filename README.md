@@ -21,20 +21,20 @@
 - <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px"> How to reach me **adityashukla262002@gmail.com**
 
 
-<h3 align="left" fontsize=""><img src="https://github.com/Adityas266/Adityas266/blob/main/images/letterbox.gif" width="25px" hspace="10px">Connect with me:</h3>
+<h3 align="left" fontsize="">Connect with me:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/letterbox.gif" width="25px" hspace="10px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya-shukla-developer" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://twitter.com/adityashuk85449" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
 <a href="https://instagram.com/adityashukla1185" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a href="adityashukla262002@gmail.com" target="blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </p>
-<h3 align="left" fontsize=""><img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px" hspace="10">Coding Profiles:</h3>
+<h3 align="left" fontsize="">Coding Profiles:<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px" hspace="10"></h3>
 <p align="left">
 <a href="https://www.leetcode.com/aditya262002" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="aditya262002" height="30"/></a>
 <a href="https://auth.geeksforgeeks.org/user/adityashukla262002" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="adityashukla262002" height="30"/></a>
 <a href="https://www.hackerrank.com/adityashukla2621" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank logo" alt="adityashukla2621" /></a></p>
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" hspace="10">Programming Languages:</h3>
+<h3 align="left">Programming Languages:<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" hspace="10"></h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/> </a>
@@ -47,14 +47,14 @@
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="40"/> </a>
 </p>
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" hspace="10">Databases:</h3>
+<h3 align="left">Databases:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/database.gif" width="25px" hspace="10"></h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px" hspace="10">Development Tools:</h3>
+<h3 align="left">Development Tools:<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="25px" hspace="10"></h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40"/> </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="40"/> </a>
@@ -80,15 +80,16 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40"/> </a></a>
 </p>
 
-<h3 align="left">Design Tools:</h3>
+<h3 align="left">Design Tools:<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="24px"></h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="40"/> </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40"/> </a>
 </p>
-
-<h3><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="28px"> Statistic:</h3>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" width="200%">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h3>Statistic:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/stats.gif" width="28px"></h3>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" width="200%">
+
 <details>
   <summary align="center" vspace="10">More stats</summary>
     <div align="center">
