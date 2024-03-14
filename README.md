@@ -101,7 +101,7 @@
         </div>
 
 </details>
-<h3 align="left">Projects:<img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="24px" /></h3>
+<h3 align="left">Projects:<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="icon of todo list" width="24px" /></h3>
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
