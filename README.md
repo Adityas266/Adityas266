@@ -91,16 +91,20 @@
 
 <details>
   <summary align="center" vspace="10">More stats</summary>
-    <div align="center">
+  <div align="center">
     <a href="https://github.com/Adityas266">
-        <div align="left">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="25">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityas266&theme=midnight_purple&exclude={exclude}"  width="45%">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityas266&theme=midnight_purple"  width="45%" hspace="25">
-            <img src="https://github.com/Adityas266/Adityas266/blob/main/Stats/4-productive-time.svg" width="45%">
-        </div>
-
+      <div align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="5">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="5">
+        <br>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityas266&theme=midnight_purple" width="45%" hspace="5">
+        <img src="https://github.com/Adityas266/Adityas266/blob/main/Stats/4-productive-time.svg" width="45%" hspace="5">
+      </div>
+    </a>
+  </div>
 </details>
+
+
 <h3 align="left">Projects:<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="icon of todo list" width="24px" /></h3>
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
