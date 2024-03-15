@@ -86,7 +86,7 @@
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3>Statistic:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/stats.gif" width="28px"></h3>
+<h3>Github Stats:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/stats.gif" width="28px"></h3>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" width="200%">
 
 <details>
