@@ -85,7 +85,19 @@
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40"/> </a>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3 align="left">Projects:<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="icon of todo list" width="24px" /></h3>
 
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| AgeGen Detect | - | [view](https://github.com/Adityas266/Age-and-gender-detection) | `Python` `OpenCV` `Deep Learning` |
+| ConsultFlow EcoInsight India | - | [view](https://github.com/Adityas266/react-project-business-app) | `React` `JavaScript` `HTML5` `CSS3` |
+| Hospital Managment | [view](https://adityas266.github.io/Hospital_Managment_Website/) | [view](https://github.com/Adityas266/Hospital_Managment_Website) | `HTML5` `CSS3` `JavaScript` `Bootstrap`|
+| NodeCRUDify | - | [view](https://github.com/Adityas266/node_express_crud_api) | `Node.js` `Express.js` `MongoDB` `JavaScript` |
+| SegmentXpert | - | [view](https://github.com/Adityas266/Customer-segmentation) | `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn` |
+| SwiftLink | - | [view](https://github.com/Adityas266/URL-SHORTNER) | `Python` |
+| TweetMoodify | - | [view](https://github.com/Adityas266/Twitter_Sentiment_Analysis) | `Python` `Tweepy` `TextBlob` `Pandas` `Matplotlib` |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3>Github Stats:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/stats.gif" width="28px"></h3>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" width="200%">
 
@@ -103,22 +115,6 @@
     </a>
   </div>
 </details>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h3 align="left">Projects:<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="icon of todo list" width="24px" /></h3>
-
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| AgeGen Detect | - | [view](https://github.com/Adityas266/Age-and-gender-detection) | `Python` `OpenCV` `Deep Learning` |
-| ConsultFlow EcoInsight India | - | [view](https://github.com/Adityas266/react-project-business-app) | `React` `JavaScript` `HTML5` `CSS3` |
-| Hospital Managment | [view](https://adityas266.github.io/Hospital_Managment_Website/) | [view](https://github.com/Adityas266/Hospital_Managment_Website) | `HTML5` `CSS3` `JavaScript` `Bootstrap`|
-| NodeCRUDify | - | [view](https://github.com/Adityas266/node_express_crud_api) | `Node.js` `Express.js` `MongoDB` `JavaScript` |
-| SegmentXpert | - | [view](https://github.com/Adityas266/Customer-segmentation) | `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn` |
-| SwiftLink | - | [view](https://github.com/Adityas266/URL-SHORTNER) | `Python` |
-| TweetMoodify | - | [view](https://github.com/Adityas266/Twitter_Sentiment_Analysis) | `Python` `Tweepy` `TextBlob` `Pandas` `Matplotlib` |
-
-
 <p align="center">
     <img src="https://github.com/Adityas266/Adityas266/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
