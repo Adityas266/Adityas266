@@ -11,13 +11,13 @@
 
 - <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> I’m currently learning **React**
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px">  I’m looking to collaborate on **Full Stack Projects**
+- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24px" hspace="3">  I’m looking to collaborate on **Full Stack Projects**
 
-- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/hyperkitty.gif" width="24px">    My portfolio [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/hyperkitty.gif" width="24px" hspace="4">    My portfolio [https://adityas266.github.io/portfolio/](https://adityas266.github.io/portfolio/)
 
-- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/lightning.gif" width="15px">  Ask me about **DSA,Python,MERN STACK**
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/lightning.gif" width="15px" hspace="9">  Ask me about **DSA,Python,MERN STACK**
 
-- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px">  How to reach me **adityashukla262002@gmail.com**
+- <img src="https://github.com/Adityas266/Adityas266/blob/main/images/message.gif" width="25px" hspace="3">  How to reach me **adityashukla262002@gmail.com**
 
 
 <h3 align="left" fontsize="">Connect with me:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/letterbox.gif" width="25px" hspace="10px"></h3>
