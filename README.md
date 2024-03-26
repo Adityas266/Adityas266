@@ -33,7 +33,7 @@
 <a href="https://auth.geeksforgeeks.org/user/adityashukla262002" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="adityashukla262002" height="30"/></a>
 <a href="https://www.hackerrank.com/adityashukla2621" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" alt="hackerrank logo" alt="adityashukla2621" /></a></p>
 
-<h3 align="left">Skills:<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="icon of todo list" width="24px" /></h3>
+<h3 align="left" fontsize="">Skills: <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="27px" hspace="4"></h3>
 
 | Category           | Tools                                                                                                             |
 |:--------------|:---------|
