@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+a+Web+Developer;I'm+a+MERN+Developer;I'm+a+Data+Analyst+;I'm+a+Python+Developer" alt="Dynamic Typing Effect: Hi There! I'm Aditya Shukla! I'm a Web Developer. I'm a MERN Developer. I'm a Data Analyst and Python Developer." />
 </h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityas266&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="adityas266" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityas266&theme=radical&row=1&column=&10no-frame=false&no-bg=true&margin-w=4" alt="adityas266" /></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
