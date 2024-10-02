@@ -61,22 +61,11 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height="2" />
 <h3>Github Stats:<img src="https://github.com/Adityas266/Adityas266/blob/main/images/stats.gif" width="28px"></h3>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" width="200%">
 
-<details>
-  <summary align="center" vspace="10">More stats</summary>
-  <div align="center">
-    <a href="https://github.com/Adityas266">
-      <div align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="5">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityas266&theme=midnight_purple&exclude={exclude}" width="45%" hspace="5">
-        <br>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adityas266&theme=midnight_purple" width="45%" hspace="5">
-        <img src="https://github.com/Adityas266/Adityas266/blob/main/Stats/4-productive-time.svg" width="45%" hspace="5">
-      </div>
-    </a>
-  </div>
-</details>
+| <img src="https://github-readme-stats.vercel.app/api?username=Adityas266&show_icons=true&theme=radical" alt="GitHub Stats" /> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Adityas266&theme=radical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityas266&theme=radical" alt="GitHub Streak" /></a> |
+|--------------- | --------------- |
+| [![Top Langs](https://github-readme-stats-rishabh.vercel.app/api/top-langs/?username=Adityas266&hide=GLSL,html&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityas266&theme=midnight_purple" alt="GitHub Activity Graph" width="600"/>|
+
 <p align="center">
     <img src="https://github.com/Adityas266/Adityas266/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
