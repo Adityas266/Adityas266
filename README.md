@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/aditya-shukla-developer" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  /></a>
 <a href="https://twitter.com/adityashuk85449" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
 <a href="https://instagram.com/adityashukla1185" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
-<a href="mailto:adityashukla262002@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
+<a href="mailto:contactadityashukla@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
 </p>
 <h3 align="left" fontsize="">Coding Profiles:<img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px" hspace="10"></h3>
 <p align="left">
