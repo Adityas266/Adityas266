@@ -27,15 +27,29 @@ Microsoft Azure · Docker · Git
 
 ---
 
-## Selected Projects
+## Featured Project
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [TweetMoodify](https://github.com/Adityas266/Twitter_Sentiment_Analysis) | Real-time Twitter sentiment analysis pipeline | Python · Tweepy · TextBlob |
-| [SegmentXpert](https://github.com/Adityas266/Customer-segmentation) | Customer segmentation using ML clustering | Python · Scikit-learn · Pandas |
-| [AgeGen Detect](https://github.com/Adityas266/Age-and-gender-detection) | Real-time age and gender detection via CV | Python · OpenCV · Deep Learning |
-| [NodeCRUDify](https://github.com/Adityas266/node_express_crud_api) | RESTful CRUD API with MongoDB | Node.js · Express · MongoDB |
-| [SwiftLink](https://github.com/Adityas266/URL-SHORTNER) | Lightweight URL shortener service | Python |
+### [RouterWorkflow](https://github.com/Adityas266/RouterWorkflow) · [routerworkflow.com](https://routerworkflow.com)
+
+An agentic AI platform built around intelligent routing, RAG pipelines, and deep integration of open-source AI tooling.
+
+**What it does**
+- Routes user queries dynamically to specialized AI agents based on intent and context
+- Implements retrieval-augmented generation (RAG) for grounded, knowledge-backed responses
+- Orchestrates multi-step agentic workflows using LangGraph and LlamaIndex
+- Integrates open-source models via HuggingFace as drop-in alternatives to proprietary LLMs
+- Exposes a clean API layer via FastAPI for production deployment
+
+**Open-source integrations**
+LlamaIndex · LangGraph · LangChain · HuggingFace Transformers · Ollama · ChromaDB · FastAPI · MongoDB
+
+**Architecture**
+```
+User Query → Intent Router → Agent Selector
+                                  ├── RAG Agent        (LlamaIndex + ChromaDB)
+                                  ├── Tool-Use Agent   (LangGraph)
+                                  └── Generalist Agent (OpenAI / Ollama)
+```
 
 ---
 
